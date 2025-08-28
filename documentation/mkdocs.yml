@@ -1,6 +1,7 @@
 site_name: Data Structures
 nav: 
-  - BubbleSort: bubblesort.md
+  - Sorting: 
+    - BubbleSort: sorting/bubblesort.md
 
 theme: readthedocs
 
